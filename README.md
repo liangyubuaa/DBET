@@ -4,7 +4,7 @@ This is an implementation of the DBET method, described in the following paper:
 
 **Distribution Bias Embedding-based Tuning Method in Vision Transformer for Remote Sensing Object Detection**
 
-![Preview](./Graphical%20Abstract.png)
+![Preview](./struct_img.pdf)
 
 ## Abstract
 
