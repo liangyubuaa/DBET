@@ -1,0 +1,31 @@
+{
+    "nproc": 20,
+    "load_type": "dota",
+    "img_dirs": [
+        "/ssd_data/xxy/dataset/plad_voc/JPEGImages/"
+    ],
+    "ann_dirs": [
+        "/ssd_data/xxy/dataset/plad_voc/txt_label/"
+    ],
+    "classes": "plad",
+    "prior_annfile": null,
+    "merge_type": "addition",
+    "sizes": [
+        640
+    ],
+    "gaps": [
+        128
+    ],
+    "rates": [
+        0.5, 1.0, 1.5
+    ],
+    "img_rate_thr": 0.6,
+    "iof_thr": 0.7,
+    "no_padding": false,
+    "padding_value": [
+        104, 116, 124
+    ],
+    "filter_empty": true,
+    "save_dir": "/ssd_data/xxy/dataset/plad_voc/split_ms_plad/",
+    "save_ext": ".jpg"
+}

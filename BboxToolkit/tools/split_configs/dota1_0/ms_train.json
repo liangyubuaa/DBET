@@ -1,0 +1,31 @@
+{
+    "nproc": 20,
+    "load_type": "dota",
+    "img_dirs": [
+        "/mnt/disk1/VEDAI/images/train"
+    ],
+    "ann_dirs": [
+        "/mnt/disk1/VEDAI/annotations/train"
+    ],
+    "classes": null,
+    "prior_annfile": null,
+    "merge_type": "addition",
+    "sizes": [
+        512
+    ],
+    "gaps": [
+        250
+    ],
+    "rates": [
+        0.5, 1.0, 1.5
+    ],
+    "img_rate_thr": 0.6,
+    "iof_thr": 0.7,
+    "no_padding": false,
+    "padding_value": [
+        104, 116, 124
+    ],
+    "filter_empty": true,
+    "save_dir": "/mnt/disk1/split_ms_VEDAI/train/",
+    "save_ext": ".png"
+}
