@@ -19,6 +19,7 @@ This is an implementation of the DBET method, described in the following paper:
 ```
 @article{liang_distribution_2025,
 	title = {Distribution bias embedding tuning of vision transformer for remote sensing object detection},
+	volume = {15},
 	issn = {2045-2322},
 	url = {https://doi.org/10.1038/s41598-025-29376-6},
 	doi = {10.1038/s41598-025-29376-6},
@@ -26,6 +27,7 @@ This is an implementation of the DBET method, described in the following paper:
 	author = {Liang, Yu and Wang, Yongbin and Xie, Xiaoyang and Wang, Kaixin and Wang, Yujun and Zhang, Hong and Li, Zhiwei and Zhou, Li and Zhang, Zhaoyang and Shi, Yihui},
 	month = {nov},
 	year = {2025},
+	pages = {45257},
 }
 ```
 
